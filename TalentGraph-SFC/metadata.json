@@ -1,7 +1,0 @@
-{
-  "name": "Remix: Talent Graph",
-  "description": "A production-grade AI-powered career optimization engine for fresh graduates and job seekers.",
-  "requestFramePermissions": [
-    "geolocation"
-  ]
-}
